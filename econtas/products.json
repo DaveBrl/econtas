@@ -1,0 +1,12 @@
+{
+	"products" : [
+		{
+			"name" : "Contas vazias",
+			"price" : "0.50",
+			"options" : [
+			],
+			"image" : "https://i.imgur.com/HVItgh3.png",
+			"description" : "Conta vazia com email temporário [mail.tm]"
+		}
+	]
+}
